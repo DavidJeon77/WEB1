@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# 부록 B
 
-You can use the [editor on GitHub](https://github.com/DavidJeon77/WEB1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### 용어집
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+------
 
-### Markdown
+##### A/B 테스팅
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+서로 다른 버전의 웹 페이지 A와 B를 비교하여더 좋은 결과를 선택하는 테스팅 방법이다.
 
-```markdown
-Syntax highlighted code block
+##### ARPU	Average Revenue Per User
 
-# Header 1
-## Header 2
-### Header 3
+고객당 평균매출액으로 고객 1명의 서비스 지출 비용에 대한 평균 지표다. 예를 들면 고객이 휴대폰/데이터 요금과 같은 서비스를 장기간 지출할 경우의 평균 금액을 말한다.
 
-- Bulleted
-- List
+##### CPA	Cost Per Acquisition
 
-1. Numbered
-2. List
+구매당 광고 비용을 말하며, 파트너 사 또는 다양한 웹 비지니스로부터 고객 모집이나 구매 시 소요된 비용을 말한다.
 
-**Bold** and _Italic_ and `Code` text
+##### 가격 정책	Pricing
 
-[Link](url) and ![Image](src)
-```
+스타트업이 수익 모델을 구현하기 위하여 적절한 가격을 결정하는 전략을 말한다. 예를 들면 부분 유료화, 정기구독, 소량판매, 대량판매에 따라 유동적인 가격 책정을 들 수 있다.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##### 가설	Hypotheses
 
-### Jekyll Themes
+스타트업 창업가는 이미 알고 있는 지식을 활용한 추측을 바탕으로 비지니스 모델의 가설을 설립한다. 가설은 비지니스 모델 캔버스에 표현되며, 고객 개발 프로세스 과정에서 실험과 검증 과정을 거쳐 개선된다.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DavidJeon77/WEB1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+##### 가치 제안	Value Proposition
 
-### Support or Contact
+고객의 문제를 해결해주는 방법을 제시하는 것이다. 가치 제안은 고객의 문제와 요구사항(생산성, 상태분석, 간략화, 편의성 등)에 대한 해결책을 제공한다. 가치 제안은 스타트업의 고객 분류와 일치해야 한다.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##### 고객 개발	Customer Development
+
+[ 깨달음으로 가는 4단계 ] 에서 처음 언급된 용어다. 고객 개발은 반복과 확장 가능한 비즈니스 모델을 찾아가는 4단계 과정으로 고객 개발팀에 의해 실행된다.
+
+##### 고객 개발팀	Customer Development Team
+
+전통적인 영업, 마케팅, 사업 개발팀을 대신하여 스타트업에서 고객을 발굴하고 검증하는 일을 실행한다. 고객 개발팀은 고객들을 직접 만나 비즈니스 모델의 가설을 검증하는 일을 책임진다. 회사 전략의 변화를 결정할 수 있는 창업가 중에 한 명이 반드시 포함되어야 한다.
+
+##### 고객 점증	Customer Validation
+
+고객 개발의 4단계 중 2번째 단계로, 창업가는 검증된 가설을 통해 초기 주문, 사용자, 고객을 모집한다.
+
+##### 고객 관계(관리)	Customer Relationship
+
+세일즈 채널로 고객 모집을 유도하고, 모집된 고객을 유지, 시간이 지남에 따라 추가적인 매출과 추천을 통한 신규 고객을 창출하여 가치를 성장시키는 회사의 전략을 말한다.
+
+##### 고객 모집	Customer Acquisition
+
+웹/모바일 세일즈 퍼널의 3단계(모집,유지,성장) 중 첫 번째 단계다. 웹 사이트로 사람들을 유입시키고 다양한 활동, 구매를 할 수 있도록 서비스를 제공, 만족감을 높여 결과적으로 잠재 고객을 확보하는 방법이다. 고객 모집 방법에는 무료 매체와 광고 매체를 이용하는 방법이 있다. 일번적으로 무료 매체 방법으로는 검색 최적화(SEM/SEO), 이메일, PR/블로그, 바이럴, 소셜네트워크를 활용한다.
+
+
+
